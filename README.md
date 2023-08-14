@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incydeme" alt="incydeme" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/IncydeMe](https://github.com/IncydeMe)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/IncydeMe)
 
 - ⚡ Fun fact **I am very open to everyone around me.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
